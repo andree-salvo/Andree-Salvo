@@ -9,7 +9,7 @@
 <h2>Scripting & Programming Projects:</h2>
 
 - [Firewall Traffic Simulation](https://github.com/AndreeSalvo/Firewall-traffic-simulation)
-- [Port Scanner - Python-based](https://github.com/AndreeSalvo/PortScanner-)
+- [Port Scanner](https://github.com/AndreeSalvo/PortScanner-)
 - [Vulnerability Dashboard](https://github.com/Andree-Cyber/vulnerability-dashboard)
 - [Siem Lite Log Analyzer](https://github.com/Andree-Cyber/siem-lite-log-analyzer)
 
