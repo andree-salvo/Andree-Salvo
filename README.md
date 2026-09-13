@@ -8,6 +8,7 @@
 
 <h2>Scripting & Programming Projects:</h2>
 
+- [Phishing URL Analyzer](https://github.com/andree-salvo/Phishing-URL-Analyzer/tree/main)
 - [Firewall Traffic Simulation](https://github.com/AndreeSalvo/Firewall-traffic-simulation)
 - [Port Scanner](https://github.com/AndreeSalvo/PortScanner-)
 - [Vulnerability Dashboard](https://github.com/Andree-Cyber/vulnerability-dashboard)
@@ -26,5 +27,4 @@
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/andreesalvo2000/
-[Discord]: https://discord.gg/dCZJNJUjS6
+[linkedin]: https://www.linkedin.com/in/andree-salvo/
