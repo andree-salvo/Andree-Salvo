@@ -14,6 +14,10 @@
 - [Vulnerability Dashboard](https://github.com/Andree-Cyber/vulnerability-dashboard)
 - [Siem Lite Log Analyzer](https://github.com/Andree-Cyber/siem-lite-log-analyzer)
 
+<h2>School Projects:</h2>
+
+- 
+
 <h2>📜 Certifications:</h2>
 
 - [CompTIA Security+](https://www.credly.com/badges/ba9c95f0-ca15-47ed-9b44-28f2a120d369/linked_in_profile)
