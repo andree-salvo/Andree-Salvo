@@ -1,7 +1,8 @@
 <h1>Hello, I'm Andree! </h1>
 
 <h2>Home Lab Projects:</h2>
-  
+
+- [Windows Brute-Force Attack Detection & SOC Investigation](https://github.com/andree-salvo/splunk-windows-bruteforce-detection)
 - [SIEM SOC Lab](https://github.com/Andree-Cyber/Wazuh-Soc-Lab)
 - [Phishing-Email-Analysis-Lab](https://github.com/Andree-Cyber/Phishing-Email-Analysis-Lab)
 - [Active Directory Implementation Consulting Lab](https://github.com/Andree-Cyber/associate-consultant-lab)
