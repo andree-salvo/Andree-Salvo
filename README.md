@@ -15,9 +15,6 @@
 - [Vulnerability Dashboard](https://github.com/Andree-Cyber/vulnerability-dashboard)
 - [Siem Lite Log Analyzer](https://github.com/Andree-Cyber/siem-lite-log-analyzer)
 
-<h2>School Projects:</h2>
-
-- 
 
 <h2>📜 Certifications:</h2>
 
