@@ -3,6 +3,7 @@
 <h2>Home Lab Projects:</h2>
 
 - [Phishing-URL-Detected](https://github.com/andree-salvo/Phishing-URL-Detected)
+- [Suspicious-Task-Scheduler](https://github.com/andree-salvo/Phishing-Mail-Detected-Suspicious-Task-Scheduler)
 - [Phishing-Email-Analysis-Lab](https://github.com/Andree-Cyber/Phishing-Email-Analysis-Lab)
 - [SIEM SOC Lab](https://github.com/Andree-Cyber/Wazuh-Soc-Lab)
 - [Windows Brute-Force Attack Detection & SOC Investigation](https://github.com/andree-salvo/splunk-windows-bruteforce-detection)
