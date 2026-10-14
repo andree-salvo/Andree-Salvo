@@ -2,10 +2,12 @@
 
 <h2>Home Lab Projects:</h2>
 
-- [Windows Brute-Force Attack Detection & SOC Investigation](https://github.com/andree-salvo/splunk-windows-bruteforce-detection)
-- [SIEM SOC Lab](https://github.com/Andree-Cyber/Wazuh-Soc-Lab)
+- [Phishing-URL-Detected](https://github.com/andree-salvo/Phishing-URL-Detected)
 - [Phishing-Email-Analysis-Lab](https://github.com/Andree-Cyber/Phishing-Email-Analysis-Lab)
+- [SIEM SOC Lab](https://github.com/Andree-Cyber/Wazuh-Soc-Lab)
+- [Windows Brute-Force Attack Detection & SOC Investigation](https://github.com/andree-salvo/splunk-windows-bruteforce-detection)
 - [Active Directory Implementation Consulting Lab](https://github.com/Andree-Cyber/associate-consultant-lab)
+
 
 <h2>Scripting & Programming Projects:</h2>
 
