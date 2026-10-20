@@ -1,4 +1,14 @@
 <h1>Hello, I'm Andree! </h1>
+I'm an aspiring cybersecurity professional with a strong interest in threat detection, incident response, digital forensics, and security operations. I enjoy investigating security incidents, analyzing suspicious activity, and developing tools to help identify potential threats.
+
+I've gained hands-on experience through cybersecurity labs and independent projects involving SOC investigations, phishing analysis, network traffic analysis, vulnerability assessments, and digital forensics.
+
+I'm currently seeking an entry-level opportunity in cybersecurity where I can apply my technical skills, gain real-world experience, and continue growing as a security professional.
+
+<h2>About me</h2>
+
+- 🌍 I'm based in San Francisco, CA
+- ✉️ You can contact me at Andreesalvo@gmail.com
 
 <h2>🧑‍💻 Lab Projects:</h2>
 
