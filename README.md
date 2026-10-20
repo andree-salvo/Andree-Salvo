@@ -20,7 +20,10 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<img width="40" height="35" alt="linkedin no white background" src="https://github.com/user-attachments/assets/8758375a-ab53-483c-9388-23fc7cad4007" />
 
 [linkedin]: https://www.linkedin.com/in/andree-salvo/
+
+<img width="80" height="30" alt="github no white background" src="https://github.com/user-attachments/assets/3b469eca-5040-4fc8-8fcb-c3fbcd97ee36" />
+
 [github]: https://github.com/andree-salvo
