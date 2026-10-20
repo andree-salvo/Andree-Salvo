@@ -2,7 +2,7 @@
 
 <h2>Home Lab Projects:</h2>
 
-- [RemoteAccessRegret - DFIR](https://github.com/andree-salvo/RemoteAccessRegret-Digital-Forensics-Incident-Response-Investigation)
+- [RemoteAccessRegret - DFIR Investigation](https://github.com/andree-salvo/RemoteAccessRegret-Digital-Forensics-Incident-Response-Investigation)
 - [Phishing-URL-Detected](https://github.com/andree-salvo/Phishing-URL-Detected)
 - [Suspicious-Task-Scheduler](https://github.com/andree-salvo/Phishing-Mail-Detected-Suspicious-Task-Scheduler)
 - [Phishing-Email-Analysis-Lab](https://github.com/Andree-Cyber/Phishing-Email-Analysis-Lab)
