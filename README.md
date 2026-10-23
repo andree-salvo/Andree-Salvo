@@ -2,7 +2,7 @@
 
 <h2>About me</h2>
 
-- 🌍 I'm based in San Francisco, CA
+- 🌍 I'm based in the Bay Area, CA
 - ✉️ You can contact me at Andreesalvo@gmail.com
 
 I'm an aspiring cybersecurity graduate with a strong interest in threat detection, incident response, digital forensics, and security operations. I enjoy investigating security incidents, analyzing suspicious activity, and developing tools to help identify potential threats.
