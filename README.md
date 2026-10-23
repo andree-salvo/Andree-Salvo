@@ -1,14 +1,17 @@
 <h1>Hello, I'm Andree! </h1>
-I'm an aspiring cybersecurity professional with a strong interest in threat detection, incident response, digital forensics, and security operations. I enjoy investigating security incidents, analyzing suspicious activity, and developing tools to help identify potential threats.
-
-I've gained hands-on experience through cybersecurity labs and independent projects involving SOC investigations, phishing analysis, network traffic analysis, vulnerability assessments, and digital forensics.
-
-I'm currently seeking an entry-level opportunity in cybersecurity where I can apply my technical skills, gain real-world experience, and continue growing as a security professional.
 
 <h2>About me</h2>
 
 - 🌍 I'm based in San Francisco, CA
 - ✉️ You can contact me at Andreesalvo@gmail.com
+
+I'm an aspiring cybersecurity graduate with a strong interest in threat detection, incident response, digital forensics, and security operations. I enjoy investigating security incidents, analyzing suspicious activity, and developing tools to help identify potential threats.
+
+I've gained hands-on experience through cybersecurity labs and independent projects involving SOC investigations, phishing analysis, network traffic analysis, vulnerability assessments, digital forensics and inicdent response.
+
+I earned my Bachelor of Science degree in Cybersecurity from Southern New Hampshire University and I hold the CompTIA Security+ certification. I’m always motivated with working on new projects to keep improving my skills and knowledge to get more hands-on experience.
+
+I’m currently seeking for an entry-level or internship opportunity as a Security Operations Center Analyst, Cybersecurity Analyst, Digital Forensics & Incident Response Analyst where I can put my technical skills to work, keep learning, and grow within the cybersecurity field.
 
 <h2>🧑‍💻 Lab Projects:</h2>
 
@@ -30,4 +33,5 @@ I'm currently seeking an entry-level opportunity in cybersecurity where I can ap
 
 <h2> 🤳 Socials:</h2>
 
-[<img width="40" height="35" alt="linkedin no white background" src="https://github.com/user-attachments/assets/8758375a-ab53-483c-9388-23fc7cad4007"/>](https://www.linkedin.com/in/andree-salvo/) [<img width="80" height="30" alt="github no white background" src="https://github.com/user-attachments/assets/3b469eca-5040-4fc8-8fcb-c3fbcd97ee36"/>](https://github.com/andree-salvo)
+[<img width="40" height="35" alt="linkedin no white background" src="https://github.com/user-attachments/assets/8758375a-ab53-483c-9388-23fc7cad4007"/>](https://www.linkedin.com/in/andree-salvo/) [<img width="80" height="30" alt="github no white background" src="https://github.com/user-attachments/assets/3b469eca-5040-4fc8-8fcb-c3fbcd97ee36"/>](https://github.com/andree-salvo) [<img width="65" height="29" alt="gmail logo" src="https://github.com/user-attachments/assets/a81d110b-1c6d-4405-a51f-b21bccf18777"/>](andreesalvo@gmail.com)
+
