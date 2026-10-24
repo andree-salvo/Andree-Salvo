@@ -5,13 +5,13 @@
 - 🌍 I'm based in California
 - ✉️ You can email me at Andreesalvo@gmail.com 
 
-Aspiring cybersecurity graduate with a strong interest in threat detection, incident response, digital forensics, and security operations. I enjoy investigating security incidents, analyzing suspicious activity, and developing tools to help identify potential threats.
+I'm a cybersecurity graduate transitioning from the food service industry into IT and cybersecurity, with a strong interest in threat detection, incident response, digital forensics, and security operations. I enjoy investigating security incidents, analyzing suspicious activity, and developing tools to help identify potential threats.
 
-I've gained hands-on experience through cybersecurity labs and independent projects involving SOC investigations, phishing analysis, network traffic analysis, vulnerability assessments, digital forensics and inicdent response.
+I've gained practical hands-on experience through my academic years of college, cybersecurity labs and independent projects involving SOC investigations, phishing analysis, network traffic analysis, vulnerability assessments, digital forensics, and incident response.
 
-I earned my Bachelor of Science degree in Cybersecurity from Southern New Hampshire University and I hold the CompTIA Security+ certification. I’m always motivated with working on new projects to keep improving my skills and knowledge to get more hands-on experience.
+I earned my Bachelor of Science in Cybersecurity from Southern New Hampshire University and hold the CompTIA Security+ certification. I'm also currently working toward my CompTIA CySA+ certification. I'm always motivated to take on new projects, strengthen my technical skills, and gain more practical hands-on experience.
 
-I’m currently seeking for an entry-level or internship opportunity as a Security Operations Center Analyst, Cybersecurity Analyst, Digital Forensics & Incident Response Analyst where I can put my technical skills to work, keep learning, and grow within the cybersecurity field.
+I'm currently seeking entry-level opportunities in IT and cybersecurity, particularly roles such as Security Operations Center (SOC) Analyst, Cybersecurity Analyst, or Digital Forensics and Incident Response (DFIR) Analyst, where I can apply my technical skills, continue learning, and grow professionally.
 
 <h2>🧑‍💻 Academy Lab Projects:</h2>
 
