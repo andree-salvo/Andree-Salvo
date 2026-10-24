@@ -18,7 +18,6 @@ I’m currently seeking for an entry-level or internship opportunity as a Securi
 - [RemoteAccessRegret - DFIR Investigation](https://github.com/andree-salvo/RemoteAccessRegret-Digital-Forensics-Incident-Response-Investigation)
 - [Phishing-URL-Detected](https://github.com/andree-salvo/Phishing-URL-Detected)
 - [Suspicious-Task-Scheduler](https://github.com/andree-salvo/Phishing-Mail-Detected-Suspicious-Task-Scheduler)
-- [Phishing-Email-Analysis-Lab](https://github.com/Andree-Cyber/Phishing-Email-Analysis-Lab)
 - [SIEM SOC Lab](https://github.com/Andree-Cyber/Wazuh-Soc-Lab)
 - [Mobile OSINT Lab](https://github.com/andree-salvo/Mobile-Shadowint-OSINT)
 - [Windows Brute-Force Attack Detection & SOC Investigation](https://github.com/andree-salvo/splunk-windows-bruteforce-detection)
