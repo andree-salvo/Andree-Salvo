@@ -13,11 +13,14 @@ I earned my Bachelor of Science degree in Cybersecurity from Southern New Hampsh
 
 I’m currently seeking for an entry-level or internship opportunity as a Security Operations Center Analyst, Cybersecurity Analyst, Digital Forensics & Incident Response Analyst where I can put my technical skills to work, keep learning, and grow within the cybersecurity field.
 
-<h2>🧑‍💻 Lab Projects:</h2>
+<h2>🧑‍💻 Academy Lab Projects:</h2>
 
-- [RemoteAccessRegret - DFIR Investigation](https://github.com/andree-salvo/RemoteAccessRegret-Digital-Forensics-Incident-Response-Investigation)
-- [Phishing-URL-Detected](https://github.com/andree-salvo/Phishing-URL-Detected)
-- [Suspicious-Task-Scheduler](https://github.com/andree-salvo/Phishing-Mail-Detected-Suspicious-Task-Scheduler)
+- [HTB - RemoteAccessRegret - DFIR Investigation](https://github.com/andree-salvo/RemoteAccessRegret-Digital-Forensics-Incident-Response-Investigation)
+- [LetsDefend - Phishing-URL-Detected](https://github.com/andree-salvo/Phishing-URL-Detected)
+- [LetsDefend - Suspicious-Task-Scheduler](https://github.com/andree-salvo/Phishing-Mail-Detected-Suspicious-Task-Scheduler)
+
+<h2>Personal Homelab Projects</h2>
+
 - [SIEM SOC Lab](https://github.com/Andree-Cyber/Wazuh-Soc-Lab)
 - [Mobile OSINT Lab](https://github.com/andree-salvo/Mobile-Shadowint-OSINT)
 - [Windows Brute-Force Attack Detection & SOC Investigation](https://github.com/andree-salvo/splunk-windows-bruteforce-detection)
