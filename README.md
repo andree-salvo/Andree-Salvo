@@ -5,7 +5,7 @@
 - 🌍 I'm based in California
 - ✉️ You can email me at Andreesalvo@gmail.com 
 
-I'm an aspiring cybersecurity graduate with a strong interest in threat detection, incident response, digital forensics, and security operations. I enjoy investigating security incidents, analyzing suspicious activity, and developing tools to help identify potential threats.
+Aspiring cybersecurity graduate with a strong interest in threat detection, incident response, digital forensics, and security operations. I enjoy investigating security incidents, analyzing suspicious activity, and developing tools to help identify potential threats.
 
 I've gained hands-on experience through cybersecurity labs and independent projects involving SOC investigations, phishing analysis, network traffic analysis, vulnerability assessments, digital forensics and inicdent response.
 
