@@ -33,5 +33,5 @@ I’m currently seeking for an entry-level or internship opportunity as a Securi
 
 <h2> 🤳 Socials:</h2>
 
-[<img width="40" height="35" alt="linkedin no white background" src="https://github.com/user-attachments/assets/8758375a-ab53-483c-9388-23fc7cad4007"/>](https://www.linkedin.com/in/andree-salvo/) [<img width="80" height="30" alt="github no white background" src="https://github.com/user-attachments/assets/3b469eca-5040-4fc8-8fcb-c3fbcd97ee36"/>](https://github.com/andree-salvo) [<img width="65" height="29" alt="gmail logo" src="https://github.com/user-attachments/assets/a81d110b-1c6d-4405-a51f-b21bccf18777"/>](andreesalvo@gmail.com)
+[<img width="40" height="35" alt="linkedin no white background" src="https://github.com/user-attachments/assets/8758375a-ab53-483c-9388-23fc7cad4007"/>](https://www.linkedin.com/in/andree-salvo/) [<img width="80" height="30" alt="github no white background" src="https://github.com/user-attachments/assets/3b469eca-5040-4fc8-8fcb-c3fbcd97ee36"/>](https://github.com/andree-salvo) [<img width="65" height="29" alt="gmail logo" src="https://github.com/user-attachments/assets/a81d110b-1c6d-4405-a51f-b21bccf18777"/>](https://mail.google.com/)
 
