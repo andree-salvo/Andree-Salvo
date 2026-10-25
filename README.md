@@ -15,7 +15,8 @@ I'm currently seeking entry-level opportunities in IT and cybersecurity, particu
 
 <h2>🧑‍💻 Academy Lab Projects:</h2>
 
-- [HTB -WordPressWebForensics - DFIR Investigation](https://github.com/andree-salvo/WordPressWebForensics)
+- [HTB - Compromised-ICS-Device](https://github.com/andree-salvo/Compromised-ICS-Device)
+- [HTB - WordPressWebForensics - DFIR Investigation](https://github.com/andree-salvo/WordPressWebForensics)
 - [HTB - RemoteAccessRegret - DFIR Investigation](https://github.com/andree-salvo/RemoteAccessRegret-Digital-Forensics-Incident-Response-Investigation)
 - [LetsDefend - Phishing-URL-Detected](https://github.com/andree-salvo/Phishing-URL-Detected)
 - [LetsDefend - Suspicious-Task-Scheduler](https://github.com/andree-salvo/Phishing-Mail-Detected-Suspicious-Task-Scheduler)
