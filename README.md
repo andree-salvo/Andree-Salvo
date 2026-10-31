@@ -25,8 +25,8 @@ I'm currently seeking entry-level opportunities in IT and cybersecurity, particu
 
 - [SIEM SOC Lab](https://github.com/Andree-Cyber/Wazuh-Soc-Lab)
 - [Mobile OSINT Lab](https://github.com/andree-salvo/Mobile-Shadowint-OSINT)
-- [Windows Brute-Force Attack Detection & SOC Investigation](https://github.com/andree-salvo/splunk-windows-bruteforce-detection)
-- [Active Directory Implementation Consulting Lab](https://github.com/Andree-Cyber/associate-consultant-lab)
+- [Windows Brute-Force Attack Detection & SOC Investigation Lab](https://github.com/andree-salvo/splunk-windows-bruteforce-detection)
+- [Active Directory Implementation & Identity Management Lab](https://github.com/Andree-Cyber/associate-consultant-lab)
 
 <h2>Certifications:</h2>
 
