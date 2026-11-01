@@ -1,4 +1,6 @@
-# Hello, I'm Andree
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=750&lines=Hello%2C+I'm+Andree;Cybersecurity+Graduate;CompTIA+Security%2B+Certified;Welcome+to+My+GitHub+Portfolio!)](https://git.io/typing-svg)
+
+
 <a href="https://linkedin.com/in/andree-salvo/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a cybersecurity graduate with a strong interest in threat detection, incident response, digital forensics, and Security Operations Center (SOC) operations. I am passionate about investigating security threats, solving, Mapping MITRE ATT&CK framwork, technical problems, and continuously developing my skills in IT and cybersecurity.
