@@ -7,7 +7,7 @@ I am a cybersecurity graduate with a strong interest in threat detection, incide
 
 ## Main Objective
 
-As a cybersecurity graduate with a Bachelor of Science in Cybersecurity and CompTIA Security+ certified, I am eager to begin my career in IT and cybersecurity. Through many hands-on labs and independent projects, I have developed a strong interest in blue team operations, particularly threat detection, incident response, digital forensics, and security monitoring. I am seeking an entry-level opportunity where I can apply my technical skills, collaborate with a team, gain real-world experience, and learn from industry professionals while continuing to grow in the IT and cybersecurity field.
+I am a cybersecurity graduate from Southern New Hampshire University with a CompTIA Security+ certification and a strong interest in blue team operations. Through hands-on labs and personal projects, I've gained practical experience in threat detection, incident response, digital forensics, and security monitoring. I'm looking for an entry-level opportunity in IT or cybersecurity where I can put what I've learned into practice, work alongside experienced professionals, and continue building my skills while contributing to the team.
 
 ## Skills
 
