@@ -100,7 +100,7 @@ I am a cybersecurity graduate from Southern New Hampshire University with a Comp
 
 <details>
 <summary>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1500&color=58A6FF&width=440&lines=Academy+Lab+Projects+(5+Projects)" alt="Academy Lab Projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=2500&color=FFD700&width=440&lines=Academy+Lab+Projects+(5+Projects)" alt="Academy Lab Projects" />
 </summary>
 
 <br>
@@ -115,7 +115,7 @@ I am a cybersecurity graduate from Southern New Hampshire University with a Comp
 
 <details>
 <summary>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1500&color=FFD700&width=480&lines=Practical+Homelab+Projects+(4+Projects)" alt="Practical Homelab Projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=2500&color=FFD700&width=480&lines=Practical+Homelab+Projects+(4+Projects)" alt="Practical Homelab Projects" />
 </summary>
 
 <br>
