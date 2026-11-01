@@ -99,15 +99,15 @@ I am a cybersecurity graduate from Southern New Hampshire University with a Comp
 
 ## Academy Lab Projects:
 
-- [HTB - Compromised-ICS-Device](https://github.com/andree-salvo/Compromised-ICS-Device)
-- [HTB - WordPressWebForensics - DFIR Investigation](https://github.com/andree-salvo/WordPressWebForensics)
-- [HTB - RemoteAccessRegret - DFIR Investigation](https://github.com/andree-salvo/RemoteAccessRegret-Digital-Forensics-Incident-Response-Investigation)
-- [LetsDefend - Phishing-URL-Detected](https://github.com/andree-salvo/Phishing-URL-Detected)
-- [LetsDefend - Suspicious-Task-Scheduler](https://github.com/andree-salvo/Phishing-Mail-Detected-Suspicious-Task-Scheduler)
+- [HTB - ICS Security Investigation](https://github.com/andree-salvo/Compromised-ICS-Device)
+- [HTB - WordPress Forensics Investigation](https://github.com/andree-salvo/WordPressWebForensics)
+- [HTB - Remote Access Incident Investigation](https://github.com/andree-salvo/RemoteAccessRegret-Digital-Forensics-Incident-Response-Investigation)
+- [LetsDefend - Phishing URL Investigation](https://github.com/andree-salvo/Phishing-URL-Detected)
+- [LetsDefend - Suspicious Scheduled Task Investigation](https://github.com/andree-salvo/Phishing-Mail-Detected-Suspicious-Task-Scheduler)
 
 ## Practical Homelab Projects:
 
-- [SIEM SOC Lab](https://github.com/Andree-Cyber/Wazuh-Soc-Lab)
-- [Mobile OSINT Lab](https://github.com/andree-salvo/Mobile-Shadowint-OSINT)
-- [Windows Brute-Force Attack Detection & SOC Investigation Lab](https://github.com/andree-salvo/splunk-windows-bruteforce-detection)
-- [Active Directory Implementation & Identity Management Lab](https://github.com/Andree-Cyber/associate-consultant-lab)
+- [Wazuh SIEM & SOC Lab](https://github.com/Andree-Cyber/Wazuh-Soc-Lab)
+- [Mobile OSINT Investigation](https://github.com/andree-salvo/Mobile-Shadowint-OSINT)
+- [Splunk - Windows Brute-Force Detection Lab](https://github.com/andree-salvo/splunk-windows-bruteforce-detection)
+- [Active Directory & Identity Management Lab](https://github.com/Andree-Cyber/associate-consultant-lab)
