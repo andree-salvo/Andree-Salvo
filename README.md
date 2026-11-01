@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=750&lines=Hello%2C+I'm+Andree;Cybersecurity+Graduate;CompTIA+Security%2B+Certified;Welcome+to+My+GitHub+Portfolio!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1000&pause=1000&color=F8C8DC&center=true&vCenter=true&width=750&lines=Hello%2C+I'm+Andree;Cybersecurity+Graduate;CompTIA+Security%2B+Certified;Welcome+to+My+GitHub+Portfolio!)](https://git.io/typing-svg)
 
 <a href="https://linkedin.com/in/andree-salvo/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
@@ -97,7 +96,14 @@ I am a cybersecurity graduate from Southern New Hampshire University with a Comp
 [![Google Cybersecurity](https://img.shields.io/badge/-Google_Cybersecurity-34A853?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/2RLRXWHVZ2YK)
 [![Google AI Fundamentals](https://img.shields.io/badge/-Google_AI_Fundamentals-8E44AD?style=for-the-badge&logo=google&logoColor=white)](https://coursera.org/verify/9INEDUOCLPZQ)
 
-## Academy Lab Projects:
+## 🛡️ Cybersecurity Projects
+
+<details>
+<summary>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1500&color=58A6FF&width=440&lines=Academy+Lab+Projects+(5+Projects)" alt="Academy Lab Projects" />
+</summary>
+
+<br>
 
 - [HTB - ICS Security Investigation](https://github.com/andree-salvo/Compromised-ICS-Device)
 - [HTB - WordPress Forensics Investigation](https://github.com/andree-salvo/WordPressWebForensics)
@@ -105,9 +111,18 @@ I am a cybersecurity graduate from Southern New Hampshire University with a Comp
 - [LetsDefend - Phishing URL Investigation](https://github.com/andree-salvo/Phishing-URL-Detected)
 - [LetsDefend - Suspicious Scheduled Task Investigation](https://github.com/andree-salvo/Phishing-Mail-Detected-Suspicious-Task-Scheduler)
 
-## Practical Homelab Projects:
+</details>
+
+<details>
+<summary>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1500&color=FFD700&width=480&lines=Practical+Homelab+Projects+(4+Projects)" alt="Practical Homelab Projects" />
+</summary>
+
+<br>
 
 - [Wazuh SIEM & SOC Lab](https://github.com/Andree-Cyber/Wazuh-Soc-Lab)
 - [Mobile OSINT Investigation](https://github.com/andree-salvo/Mobile-Shadowint-OSINT)
 - [Splunk - Windows Brute-Force Detection Lab](https://github.com/andree-salvo/splunk-windows-bruteforce-detection)
 - [Active Directory & Identity Management Lab](https://github.com/Andree-Cyber/associate-consultant-lab)
+
+</details>
