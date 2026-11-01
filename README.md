@@ -11,16 +11,13 @@ As a cybersecurity graduate with a Bachelor of Science in Cybersecurity and Comp
 
 | **Skill** | **Associated Project** |
 |---|---|
-| SIEM Implementation and Security Monitoring | [Wazuh SOC Lab](#) |
-| Log Analysis and Threat Detection | [Wazuh SOC Lab](#) |
-| Security Event Investigation and Alert Analysis | [Wazuh SOC Lab](#) |
-| MITRE ATT&CK Framework Mapping | [Wazuh SOC Lab](#) |
-| Network Traffic Analysis | [Network Traffic Analysis](#) |
-| Phishing Email Analysis and Investigation | [Phishing Analysis](#) |
-| Digital Forensics and Evidence Analysis | [Digital Forensics Lab](#) |
-| Vulnerability Assessment and Analysis | [Vulnerability Assessment](#) |
-| Incident Response and Security Investigation | [Incident Response Lab](#) |
-
+| SIEM Implementation and Security Monitoring | [Wazuh SOC Lab](https://github.com/andree-salvo/Wazuh-Soc-SIEM-Lab) |
+| Security Log Analysis and Threat Detection | [Splunk and SIEM Labs](https://github.com/andree-salvo/Splunk-Windows-Bruteforce-Detection-Lab) |
+| SOC Phishing URL Detected Investigation | [LetsDefend SOC141](https://github.com/andree-salvo/Phishing-URL-Detected) |
+| SOC Phishing Email Analysis and Investigation | [LetsDefend SOC140](https://github.com/andree-salvo/Phishing-Mail-Detected-Suspicious-Task-Scheduler) |
+| Digital Forensics and Evidence Analysis | [HTB RemoteAccessRegret](https://github.com/andree-salvo/RemoteAccessRegret-Digital-Forensics-Incident-Response-Investigation) |
+| Browser Forensics and Remote Access Investigation | [HTB RemoteAccessRegret](https://github.com/andree-salvo/RemoteAccessRegret-Digital-Forensics-Incident-Response-Investigation) |
+| Active Directory and Identity Management | [Active Directory Lab](https://github.com/andree-salvo/Active-Directory-Implementation-Identity-Management) |
 
 ## Tools
 
