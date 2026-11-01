@@ -3,11 +3,11 @@
 
 <a href="https://linkedin.com/in/andree-salvo/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a cybersecurity graduate with a strong interest in threat detection, incident response, digital forensics, and Security Operations Center (SOC) operations. I am passionate about investigating security threats, solving, Mapping MITRE ATT&CK framwork, technical problems, and continuously developing my skills in IT and cybersecurity.
+I am a cybersecurity graduate with a strong interest in threat detection, incident response, digital forensics, and Security Operations Center (SOC) operations. I am passionate about working in a blue team environment, investigating security threats, analyzing suspicious activity, mapping adversary techniques to the MITRE ATT&CK framework, and solving complex technical problems. I am committed to continuously developing my technical skills and expanding my hands-on experience in IT and cybersecurity.
 
-## Objective
+## Main Objective
 
-As a cybersecurity graduate with a Bachelor of Science in Cybersecurity and CompTIA Security+ certification, I am eager to begin my new career journey into IT and cybersecurity. Through many hands-on labs and independent projects, I have developed a strong interest and focus in Blue teams in threat detection, incident response, digital forensics, and security operations. I am seeking an entry-level opportunity where I can apply my technical skills, team work, gain real-world experience, learn from industry professionals, and continue growing as an IT and cybersecurity professional.
+As a cybersecurity graduate with a Bachelor of Science in Cybersecurity and CompTIA Security+ certified, I am eager to begin my career in IT and cybersecurity. Through many hands-on labs and independent projects, I have developed a strong interest in blue team operations, particularly threat detection, incident response, digital forensics, and security monitoring. I am seeking an entry-level opportunity where I can apply my technical skills, collaborate with a team, gain real-world experience, and learn from industry professionals while continuing to grow in the IT and cybersecurity field.
 
 ## Skills
 
