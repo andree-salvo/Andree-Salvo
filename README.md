@@ -3,7 +3,7 @@
 
 <a href="https://linkedin.com/in/andree-salvo/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a cybersecurity graduate with a strong interest in threat detection, incident response, digital forensics, and Security Operations Center (SOC) operations. I am passionate about working in a blue team environment, investigating security threats, analyzing suspicious activity, mapping adversary techniques to the MITRE ATT&CK framework, and solving complex technical problems. I am committed to continuously developing my technical skills and expanding my hands-on experience in IT and cybersecurity.
+I'm passionate about blue team operations in cybersecurity, especially investigating security threats, analyzing suspicious activity, and understanding how attacks happen and how to detect, respond to, and remediate them accordingly. I enjoy complex problems, especially digging into security incidents, mapping attacker techniques to the MITRE ATT&CK framework, and solving technical challenges. I'm always looking for ways to sharpen my skills and gain more hands-on experience in IT and cybersecurity.
 
 ## Main Objective
 
