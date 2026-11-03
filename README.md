@@ -23,6 +23,36 @@ I am a cybersecurity graduate from Southern New Hampshire University with a Comp
 | Core Security Policies | [GRC Core Security Policies Lab](https://github.com/andree-salvo/cybersecurity-grc-projects/tree/main/2-policy-set) |
 | Cybersecurity Risk Assessment | [GRC Cybersecurity Risk Assessment Lab](https://github.com/andree-salvo/cybersecurity-grc-projects/tree/main/3-risk-register) |
 
+## 🛡️ Cybersecurity Projects
+
+<details>
+<summary>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=2500&color=FFD700&width=440&lines=Academy+Lab+Projects+(5+Projects)" alt="Academy Lab Projects" />
+</summary>
+
+<br>
+
+- [HTB - ICS Security Investigation](https://github.com/andree-salvo/Compromised-ICS-Device)
+- [HTB - WordPress Forensics Investigation](https://github.com/andree-salvo/WordPressWebForensics)
+- [HTB - Remote Access Incident Investigation](https://github.com/andree-salvo/RemoteAccessRegret-Digital-Forensics-Incident-Response-Investigation)
+- [LetsDefend - Phishing URL Investigation](https://github.com/andree-salvo/Phishing-URL-Detected)
+- [LetsDefend - Suspicious Scheduled Task Investigation](https://github.com/andree-salvo/Phishing-Mail-Detected-Suspicious-Task-Scheduler)
+
+</details>
+
+<details>
+<summary>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=2500&color=FFD700&width=480&lines=Practical+Homelab+Projects+(4+Projects)" alt="Practical Homelab Projects" />
+</summary>
+
+<br>
+
+- [Wazuh SIEM & SOC Lab](https://github.com/Andree-Cyber/Wazuh-Soc-Lab)
+- [Mobile OSINT Investigation](https://github.com/andree-salvo/Mobile-Shadowint-OSINT)
+- [Splunk - Windows Brute-Force Detection Lab](https://github.com/andree-salvo/splunk-windows-bruteforce-detection)
+- [Active Directory & Identity Management Lab](https://github.com/Andree-Cyber/associate-consultant-lab)
+
+</details>
 
 ## Tools
 
@@ -99,34 +129,3 @@ I am a cybersecurity graduate from Southern New Hampshire University with a Comp
 [![Google IT Support](https://img.shields.io/badge/-Google_IT_Support-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.credly.com/badges/dc815f43-d252-4b66-a4f8-a66f3f50ce2b/linked_in_profile)
 [![Google Cybersecurity](https://img.shields.io/badge/-Google_Cybersecurity-34A853?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/2RLRXWHVZ2YK)
 [![Google AI Fundamentals](https://img.shields.io/badge/-Google_AI_Fundamentals-8E44AD?style=for-the-badge&logo=google&logoColor=white)](https://coursera.org/verify/9INEDUOCLPZQ)
-
-## 🛡️ Cybersecurity Projects
-
-<details>
-<summary>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=2500&color=FFD700&width=440&lines=Academy+Lab+Projects+(5+Projects)" alt="Academy Lab Projects" />
-</summary>
-
-<br>
-
-- [HTB - ICS Security Investigation](https://github.com/andree-salvo/Compromised-ICS-Device)
-- [HTB - WordPress Forensics Investigation](https://github.com/andree-salvo/WordPressWebForensics)
-- [HTB - Remote Access Incident Investigation](https://github.com/andree-salvo/RemoteAccessRegret-Digital-Forensics-Incident-Response-Investigation)
-- [LetsDefend - Phishing URL Investigation](https://github.com/andree-salvo/Phishing-URL-Detected)
-- [LetsDefend - Suspicious Scheduled Task Investigation](https://github.com/andree-salvo/Phishing-Mail-Detected-Suspicious-Task-Scheduler)
-
-</details>
-
-<details>
-<summary>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=2500&color=FFD700&width=480&lines=Practical+Homelab+Projects+(4+Projects)" alt="Practical Homelab Projects" />
-</summary>
-
-<br>
-
-- [Wazuh SIEM & SOC Lab](https://github.com/Andree-Cyber/Wazuh-Soc-Lab)
-- [Mobile OSINT Investigation](https://github.com/andree-salvo/Mobile-Shadowint-OSINT)
-- [Splunk - Windows Brute-Force Detection Lab](https://github.com/andree-salvo/splunk-windows-bruteforce-detection)
-- [Active Directory & Identity Management Lab](https://github.com/Andree-Cyber/associate-consultant-lab)
-
-</details>
