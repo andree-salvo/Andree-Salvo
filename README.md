@@ -19,6 +19,10 @@ I am a cybersecurity graduate from Southern New Hampshire University with a Comp
 | Digital Forensics and Evidence Analysis | [HTB RemoteAccessRegret](https://github.com/andree-salvo/RemoteAccessRegret-Digital-Forensics-Incident-Response-Investigation) |
 | Browser Forensics and Remote Access Investigation | [HTB RemoteAccessRegret](https://github.com/andree-salvo/RemoteAccessRegret-Digital-Forensics-Incident-Response-Investigation) |
 | Active Directory and Identity Management | [Active Directory Lab](https://github.com/andree-salvo/Active-Directory-Implementation-Identity-Management) |
+| Company Profile & Security Architecture | [GRC Company Profile & Security Architecture Lab](https://github.com/andree-salvo/cybersecurity-grc-projects/tree/main/1-company-portfolio) |
+| Core Security Policies | [GRC Core Security Policies Lab](https://github.com/andree-salvo/cybersecurity-grc-projects/tree/main/2-policy-set) |
+| Cybersecurity Risk Assessment | [GRC Cybersecurity Risk Assessment Lab](https://github.com/andree-salvo/cybersecurity-grc-projects/tree/main/3-risk-register) |
+
 
 ## Tools
 
